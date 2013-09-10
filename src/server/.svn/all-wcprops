@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/6.005/sp12/!svn/ver/41004/groups/guichat/rannaz-dvaughn-jkliu/src/server
+END
+ServerConversationThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/6.005/sp12/!svn/ver/40279/groups/guichat/rannaz-dvaughn-jkliu/src/server/ServerConversationThread.java
+END
+ServerClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/6.005/sp12/!svn/ver/41004/groups/guichat/rannaz-dvaughn-jkliu/src/server/ServerClientThread.java
+END
+ServerConversation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/6.005/sp12/!svn/ver/41004/groups/guichat/rannaz-dvaughn-jkliu/src/server/ServerConversation.java
+END
+ClientRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/6.005/sp12/!svn/ver/37171/groups/guichat/rannaz-dvaughn-jkliu/src/server/ClientRequestTest.java
+END
+ClientRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/6.005/sp12/!svn/ver/39804/groups/guichat/rannaz-dvaughn-jkliu/src/server/ClientRequest.java
+END
+ServerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/6.005/sp12/!svn/ver/34038/groups/guichat/rannaz-dvaughn-jkliu/src/server/ServerMessage.java
+END

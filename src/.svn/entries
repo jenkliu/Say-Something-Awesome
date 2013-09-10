@@ -1,0 +1,43 @@
+10
+
+dir
+41014
+https://svn.csail.mit.edu/6.005/sp12/groups/guichat/rannaz-dvaughn-jkliu/src
+https://svn.csail.mit.edu/6.005/sp12
+
+
+
+2012-05-17T03:59:47.388380Z
+41004
+rannaz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+162adf31-b729-4fd7-95b4-4f8ef622213b
+
+client
+dir
+
+gui
+dir
+
+main
+dir
+
+model
+dir
+
+server
+dir
+

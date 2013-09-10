@@ -1,0 +1,117 @@
+10
+
+dir
+41014
+https://svn.csail.mit.edu/6.005/sp12/groups/guichat/rannaz-dvaughn-jkliu
+https://svn.csail.mit.edu/6.005/sp12
+
+
+
+2012-05-17T03:59:47.388380Z
+41004
+rannaz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+162adf31-b729-4fd7-95b4-4f8ef622213b
+
+.classpath
+file
+
+
+
+
+2012-05-12T20:58:15.234000Z
+f7145f1a9bd104f61cf398c80c8aa22b
+2012-05-05T00:28:14.328907Z
+30299
+dvaughn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+379
+
+.project
+file
+
+
+
+
+2012-05-12T20:58:17.606000Z
+f6f897f2c1098071bc10d21d5843ccd6
+2012-04-25T02:04:42.631536Z
+28904
+yunlu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+375
+
+.settings
+dir
+
+Milestone01
+dir
+
+Milestone02
+dir
+
+Milestone03
+dir
+
+doc
+dir
+
+resources
+dir
+
+src
+dir
+
